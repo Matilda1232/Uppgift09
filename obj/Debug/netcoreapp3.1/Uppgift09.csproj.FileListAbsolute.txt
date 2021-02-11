@@ -1,0 +1,13 @@
+C:\Users\mjute\Documents\GitHub\Uppgift09\obj\Debug\netcoreapp3.1\Uppgift09.csprojAssemblyReference.cache
+C:\Users\mjute\Documents\GitHub\Uppgift09\obj\Debug\netcoreapp3.1\Uppgift09.AssemblyInfoInputs.cache
+C:\Users\mjute\Documents\GitHub\Uppgift09\obj\Debug\netcoreapp3.1\Uppgift09.AssemblyInfo.cs
+C:\Users\mjute\Documents\GitHub\Uppgift09\obj\Debug\netcoreapp3.1\Uppgift09.csproj.CoreCompileInputs.cache
+C:\Users\mjute\Documents\GitHub\Uppgift09\bin\Debug\netcoreapp3.1\Uppgift09.exe
+C:\Users\mjute\Documents\GitHub\Uppgift09\bin\Debug\netcoreapp3.1\Uppgift09.deps.json
+C:\Users\mjute\Documents\GitHub\Uppgift09\bin\Debug\netcoreapp3.1\Uppgift09.runtimeconfig.json
+C:\Users\mjute\Documents\GitHub\Uppgift09\bin\Debug\netcoreapp3.1\Uppgift09.runtimeconfig.dev.json
+C:\Users\mjute\Documents\GitHub\Uppgift09\bin\Debug\netcoreapp3.1\Uppgift09.dll
+C:\Users\mjute\Documents\GitHub\Uppgift09\bin\Debug\netcoreapp3.1\Uppgift09.pdb
+C:\Users\mjute\Documents\GitHub\Uppgift09\obj\Debug\netcoreapp3.1\Uppgift09.dll
+C:\Users\mjute\Documents\GitHub\Uppgift09\obj\Debug\netcoreapp3.1\Uppgift09.pdb
+C:\Users\mjute\Documents\GitHub\Uppgift09\obj\Debug\netcoreapp3.1\Uppgift09.genruntimeconfig.cache
